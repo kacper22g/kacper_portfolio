@@ -9,7 +9,6 @@
 
 <center><img src="./images/EU_satisfaction.png?raw=true"/></center>
 
----
 **AI prediction** <br>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kacper22g/AI_prediction)
