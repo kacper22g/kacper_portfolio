@@ -1,7 +1,7 @@
 ## Portfolio
 
 
-**EU_citizens_satisfaction** <br>
+**EU citizens satisfaction** <br>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kacper22g/EU_citizens_satisfaction)
 
@@ -10,7 +10,7 @@
 <center><img src="./images/EU_satisfaction.png?raw=true"/></center>
 
 ---
-**AI_prediction** <br>
+**AI prediction** <br>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kacper22g/AI_prediction)
 
