@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Project 1 Title]
-<img src="images/EU_satisfaction.jpg?raw=true"/>
+<img src="./images/EU_satisfaction.png?raw=true"/>
 
 ---
 [Project 2 Title]
-<img src="images/ai_prediction.jpg?raw=true"/>
+<img src="./images/ai_prediction.png?raw=true"/>
 
 ---
 
