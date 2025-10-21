@@ -1,11 +1,11 @@
 ## Portfolio
 
 
-[EU_satisfaction]
+**EU_satisfaction**
 <img src="./images/EU_satisfaction.png?raw=true"/>
 
 ---
-[AI_prediction]
+**AI_prediction**
 <img src="./images/ai_prediction.png?raw=true"/>
 
 ---
